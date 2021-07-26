@@ -5,5 +5,5 @@ Also included is a accepted conference paper presented at EEEIC 2020 titled: 'Op
 in Energy Transactions'
 
 The code is written in GAMS and is publically available. If you use any part of this code, please cite the following paper: 
-  M. Gough, S.F. Santos, M. Javadi, D. Fitiwi, G. Osório, R. Castro, J.P.S. Catalão. 2020. 'Optimisation of Prosumers’    Participation in Energy Transactions.' 20th International Conference on Environment and Electrical Engineering, Madrid, Spain. 9-12 June 2020. 
+  M. Gough, S.F. Santos, M. Javadi, D. Fitiwi, G. Osório, R. Castro, J.P.S. Catalão. 2020. 'Optimisation of Prosumers’    Participation in Energy Transactions.' 20th International Conference on Environment and Electrical Engineering, Madrid, Spain. 9-12 June 2020. https://doi.org/10.1109/EEEIC/ICPSEurope49358.2020.9160507
 
