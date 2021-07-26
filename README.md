@@ -1,6 +1,6 @@
 # DRoT-4-UNiTED
 Final version of DROT 4 for the UNiTED research project
-In this repository, you can find the code relating to DROT 4 of the UNiTED Project (http://united.inesctec.pt/)
+In this repository, you can find the code relating to DROT 4 of the UNiTED Project.
 Also included is a accepted conference paper presented at EEEIC 2020 titled: 'Optimisation of Prosumers’ Participation 
 in Energy Transactions'
 
